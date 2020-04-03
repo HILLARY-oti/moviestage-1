@@ -11,7 +11,7 @@ import java.util.Scanner;
 public final class Network {
     private static final String TAG = Network.class.getSimpleName();
     private static final String BASE_URL = "https://api.themoviedb.org/3/movie/";
-    private static final String APT_KEY = "6faf0818f7c25fae75bf6a89348d7eeb"; //TODO add api key here
+    private static final String APT_KEY = ""; //TODO add api key here
     private static final String POPULARITY_PARAM = "popular";
     private static final String TOP_RATING_PARAM = "top_rated";
     private static final String API_KEY_PARAM = "api_key";
